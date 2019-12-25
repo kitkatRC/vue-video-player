@@ -52,7 +52,8 @@
           sources: [{
             type: "video/mp4",
             // mp4
-            src: "http://vjs.zencdn.net/v/oceans.mp4",
+            //src: "http://vjs.zencdn.net/v/oceans.mp4",
+            src:'https://ugcws.video.gtimg.com/uwMROfz2r5zEIaQXGdGnC2dfDmafRkP9ujxgqKjuATzMrE-2/m3034jqa94x.mp4?sdtfrom=v1010&amp;guid=86ef0526b74e60cff8f1abc273fa1753&amp;vkey=1E069A9D28C190AFD43D95BB336DFF5403903B5E4BECB8BDF3AAC00CC88C43F378DED657D63A17C2DC172C96F5B47A74064C77C36E5D0B757B88EF8D4EF242923FF197DB4DB5ED785E74263C5D7547C041DEC63417008A56A7A1A71F3A1952A67A59BE79C670622CF045BC1C43FDBCB919812AA97D86BAAA0438B69B6D31950F'
             // webm
             // src: "https://cdn.theguardian.tv/webM/2015/07/20/150716YesMen_synd_768k_vp8.webm"
           }],
